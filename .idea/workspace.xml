@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1001ea44-f01e-48fc-b630-29fe6860d5ec" name="Default Changelist" comment="" />
+    <list default="true" id="1001ea44-f01e-48fc-b630-29fe6860d5ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/static/portfolio/pink.jfif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/templates/portfolio/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g0GV0h9jRRBT1uIINb20OiX4a4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,16 +32,17 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django3-personal-portfolio" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\django\personal_portfolio-project\portfolio\static" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\django\personal_portfolio-project\portfolio\static\portfolio" />
       <recent name="D:\django\personal_portfolio-project\portfolio\static" />
       <recent name="D:\django\personal_portfolio-project\blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\django\personal_portfolio-project\portfolio\static" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -50,9 +59,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="917" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597333201541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="917" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1597333201541" />
     <state x="835" y="170" key="FileChooserDialogImpl" timestamp="1597331291446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="835" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597331291446" />
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597332986379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597332986379" />
   </component>
 </project>
