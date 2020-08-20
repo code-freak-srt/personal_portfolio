@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1001ea44-f01e-48fc-b630-29fe6860d5ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/portfolio/pink.jfif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/templates/portfolio/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/templates/portfolio/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +65,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="835" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597331291446" />
-    <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597332986379">
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1597925444210">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="849" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597332986379" />
+    <state x="849" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597925444210" />
   </component>
 </project>
